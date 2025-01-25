@@ -4,7 +4,7 @@
 - 💞️ I’m *not currently* looking to collaborate 
 - 📫 At gmail.com.
 
-I often like solving hard problems (hence my interest in ML and algorithms).  I also enjoy refactoring existing code bases, optimizing performance, and starting projects from scratch.
+I often like solving hard problems (hence my interest in ML and algorithms).  I also enjoy refactoring existing code bases, optimizing performance, and starting projects from scratch.  Many times in investigating complex performance issues in .Net and python, reducing the memory pressure for the garbage collector was a successful strategy -- this led me to look into alternative memory management strategies like that used by Rust and V.
 
 ## Projects
 
