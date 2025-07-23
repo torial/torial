@@ -6,6 +6,12 @@
 
 I often like solving hard problems (hence my interest in ML and algorithms).  I also enjoy refactoring existing code bases, optimizing performance, and starting projects from scratch.  Many times in investigating complex performance issues in .Net and python, reducing the memory pressure for the garbage collector was a successful strategy -- this led me to look into alternative memory management strategies like that used by Rust and V.
 
+## Presentation
+Center for Advanced Manufacturing Puget Sound (CAMPS) Innovation Forum presentation:
+https://vimeo.com/1096425820?share=copy
+
+Slides at: https://insights.freshconsulting.com/camps/leveraging-ai-in-manufacturing
+
 ## Projects
 
 ### Patches
