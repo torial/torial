@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @torial
-- 👀 I’m interested in ML, algorithms, Python, Rust, V, C#, Godot
-- 🌱 I’m currently learning Rust, V, ML, and Godot
+- 👀 I’m interested in ML, algorithms, Python, V, C#, Godot, and Zig
+- 🌱 I’m currently learning Zig, V, and ML
 - 💞️ I’m *not currently* looking to collaborate 
 - 📫 At gmail.com.
 
