@@ -17,7 +17,7 @@ Slides at: https://insights.freshconsulting.com/camps/leveraging-ai-in-manufactu
 ### Patches
 1. [iui](https://github.com/torial/iui) some incremental fixes for updated V version.
 2. [lazypredict](https://github.com/torial/lazypredict) initially just fixes for a small project I was doing for a client.  Additional changes forked it to support more things like hyperparameter defaults.  Needs more refactoring to be fully generalizable.  At this point more of a fork than a patch.
-3. [cobra-language](https://github.com/torial/cobra-language) initial attempt at upgrading the installer to work with newer .Net versions.
+3. [cobra-language](https://github.com/torial/cobra-language) initial attempt at upgrading the installer to work with newer .Net versions.  Cobra is a python-like language that runs on older .Net frameworks, despite being defunct it is my favorite programming language.
 
 ### Learning by Doing
 I am a big believer in learning by building technology from scratch.  I've built things like messaging system, template libraries (handlebars compatible), translation leveraging systems, web server, one time password and associated handshaking, Q Learning (Reinforcement Learning), neural networks, GPT 2, Decision Trees, and simple XG Boost.  Such an approach increases my understanding of underlying technologies - some of these are used in production projects -- the others are listed here.
